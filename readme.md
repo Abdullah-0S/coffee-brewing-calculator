@@ -1,6 +1,6 @@
 # Coffee Brewing Calculator
 
-A tiny Spring Boot app I use to work out my coffee measurements.
+A Spring Boot app I use to work out my coffee measurements.
 It is also my project for learning Spring Boot.
 
 ## What it does
